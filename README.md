@@ -1,6 +1,8 @@
 # ud-knob
 Knob control for Universal Dashboard
 
+[Download](https://ironmansoftware.com/product/knob/)
+
 ## Example 
 
 ```
