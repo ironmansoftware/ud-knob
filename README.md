@@ -25,7 +25,7 @@ Start-UDDashboard -Dashboard (
 )   -Port 10001
 ```
 
-![](.\images\knob.gif)
+![](./images/knob.gif)
 
 ## Properties
 | name | description | default |
