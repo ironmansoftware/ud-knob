@@ -77,7 +77,7 @@ function New-UDKnob {
             font = $font 
             fontWeight = $FontWeight
             clockwise = -Not $Counterclockwise.IsPresent
-            angleArch =$AngleArc
+            angleArc =$AngleArc
             angleOffset = $AngleOffset 
             title = $Title
         }
